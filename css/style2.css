@@ -1,0 +1,125 @@
+
+
+.partners li{
+    line-height: 1.5em;
+}
+
+.form-simple{
+    display: block;
+    margin: 20px auto 60px auto;
+    width: 500px;
+    height: max-content;
+    border: 1px black solid;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
+
+.form-title{
+   font-size: 1.4em;
+   font-weight: bold;
+   margin: 20px auto; 
+}
+
+label{
+    margin: 10px auto;
+}
+
+input{
+    margin-left: 5px;
+}
+.form__button{
+    height: 40px;
+    width: auto;
+    color: white;
+    background-color: #6DAF79;
+    border: 1px #6DAF79 solid;;
+    cursor: pointer;
+    transition: 500ms;
+    margin: 15px auto;
+    font-weight: 500;
+}
+
+.form__button a{
+    color: white;
+    font-weight: bold;
+}
+
+.form__button:hover{
+    background-color: #FE523D;
+    transform: scale(1.1);
+}
+
+.form__lost-password{
+    width: 200px;
+}
+
+.content{
+    width: 90%;
+    margin:auto;
+    padding-top: 20px;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+
+#introduction-text{
+    text-align: justify;
+}
+
+
+.content-title{
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #6DAF79;
+}
+
+.content h2{
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #6DAF79;
+}
+/*
+.content span{
+    font-size: 1.5em;
+    color: #6DAF79;
+    font-weight: 600;
+}*/
+
+.content-text-title{
+    font-weight: 700;
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.content-block-title{
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
+.content{
+    font-size: 1.1em;
+}
+
+.content ul{
+    margin-left: 50px;
+}
+
+.condition-text{
+    font-size: 1em;
+    font-weight: 400;
+    color: red;
+}
+
+.payment-text{
+    font-weight: bold;
+    
+}
+
+.step_btoc{
+    display: none;
+}
+
+.step_btob{
+    display: none;
+}
